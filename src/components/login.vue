@@ -13,7 +13,7 @@
           <br>
           <br>
       <center>
-          <H1 class="fontdetial">ระบบ Login Barcarrat</H1>
+          <H1 class="fontdetial">ระบบ Login เพื่อเข้าสูตร Barcarrat</H1>
           <br>            
           <b-input placeholder="ID" class="sizebutton mdiAccount"></b-input>
           <br> 
